@@ -4,7 +4,6 @@ Spyder Editor
 
 This is a temporary script file.
 """
-"git tutorial...."
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
